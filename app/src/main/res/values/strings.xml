@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ActivityLab</string>
+    <string name="oncreatecounter">"onCreateCounter: "</string>
+    <string name="onrestartcounter">"onRestartCounter: "</string>
+    <string name="onstartcounter">"onStartCounter: "</string>
+    <string name="onresumecounter">"onResumeCounter: "</string>
+    <string name="activityOneButtonText">Promeni activity</string>
+    <string name="activityTwoButtonText">Vrati se</string>
 </resources>
